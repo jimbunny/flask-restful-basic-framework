@@ -13,11 +13,13 @@
 * 数据库（mysql—sqlalchemy,mongodb）
 * 文件读写
 * 登录注册
+* 国际化
 * 单元测试（tox）
-* redis,celery缓存
+* redis,celery
 * 消息队列
 * nginx负载均衡，gunicorn
 * docker
 * ci,cd自动化集成部署
+
 
 

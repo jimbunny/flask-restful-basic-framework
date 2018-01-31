@@ -12,13 +12,26 @@ http://www.runoob.com/w3cnote/google-python-styleguide.html
 2018-01-28 http://www.cnblogs.com/jingtyu/p/8352914.html （本人）
 
 4..gitignore文件编写
-2018-01-29  http://www.cnblogs.com/jingtyu/p/6831772.html（本人）
+2018-01-29  http://www.cnblogs.com/jingtyu/p/6831772.html （本人）
 
-4.flask基础框架(python3.5)
+5.flask基础框架(python3.6.4)
 2018-01-29 https://github.com/kamalgill/flask-appengine-template
 
-3.远程代码同步debug
+6.远程代码同步debug
 2018-01-30  http://www.cnblogs.com/jingtyu/p/7884263.html （本人）
 
+7.域名解析nginx反向代理
+2018-01-31 https://www.jianshu.com/p/6133d58c8f40
+
+8.flask蓝图+（GET,POST,PUT,DELETE接口） 
+2018-02-01 未完成
+
+9.单元测试
+
+10.生成api文档
+
+11.日志
+
+12.装饰器
 
 

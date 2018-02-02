@@ -24,7 +24,7 @@ http://www.runoob.com/w3cnote/google-python-styleguide.html
 2018-01-31 https://www.jianshu.com/p/6133d58c8f40
 
 8.flask蓝图+（GET,POST,PUT,DELETE接口） 
-2018-02-01 未完成
+2018-02-02 https://spacewander.github.io/explore-flask-zh/index.html
 
 9.单元测试
 

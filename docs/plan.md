@@ -25,10 +25,14 @@ http://www.runoob.com/w3cnote/google-python-styleguide.html
 
 8.flask蓝图+（GET,POST,PUT,DELETE接口） 
 2018-02-02 https://spacewander.github.io/explore-flask-zh/index.html
+           http://www.cnblogs.com/yueerwanwan0204/p/5327912.html
 
-9.单元测试
+9.flask配置
+2018-2-7 未完成 http://www.hustlzp.com/post/2014/08/flask-config
 
-10.生成api文档
+10.单元测试
+
+11.生成api文档
 
 11.日志
 
